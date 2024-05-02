@@ -121,11 +121,7 @@ def main():
         f.write(f"Pixel size in micrometers = {pixel_size_um:.1f}\n")
         f.write(f"Name of the directory of the images = {directory}\n")
         
-        
-      
-        
-        
 
-        
-  
 
+if __name__ == "__main__":
+    main()
